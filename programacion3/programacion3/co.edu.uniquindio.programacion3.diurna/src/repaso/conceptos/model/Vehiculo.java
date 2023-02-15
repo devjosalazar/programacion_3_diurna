@@ -1,4 +1,4 @@
-package repaso.conceptos;
+package repaso.conceptos.model;
 
 public class Vehiculo {
 	
@@ -26,6 +26,8 @@ public class Vehiculo {
 	}
 	
 	
-	
+	public void encenderVehiculo(){
+		System.out.println("Encendiendo el vehiculo");
+	}
 
 }
