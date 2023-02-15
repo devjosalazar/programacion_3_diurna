@@ -1,6 +1,6 @@
 package repaso.conceptos.model;
 
-public class Vehiculo {
+public abstract class Vehiculo {
 	
 	private String nombre;
 	private String descripcion;
